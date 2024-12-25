@@ -1,0 +1,11 @@
+{
+    "_id": {
+        "$oid": "6764c88854b8b87b75d46aab"
+    },
+    "transaction_id": "T001",
+    "book_id": "B00003S",
+    "membership_id": "15100120201120",
+    "borrow_date": "December 20-2024",
+    "return_date": "December 28-2024",
+    "status": "borrowed"
+}
